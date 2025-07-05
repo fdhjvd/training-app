@@ -1,0 +1,17 @@
+
+{
+  "name": "training-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.jsx",
+    "build": "parcel build index.jsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
